@@ -7,7 +7,7 @@ VERMILION — 한국어
 출시 지역: 한국 · 일본 · 대만 · 홍콩 · 마카오 · 싱가포르 · 말레이시아
 지원 언어: 한국어 (Korean) · 日本語 (Japanese) · 繁體中文 (Traditional Chinese) · English
 출시일: 2026-09-17
-개발: 1인 개발
+개발: 2인 개발팀 (Travelic Games)
 App Store: https://apps.apple.com/app/id6795466218?pt=129231526&ct=web-ko&mt=8
 문의: https://aucus.github.io/vermilion-legal/
 Privacy: https://aucus.github.io/vermilion-legal/privacy-policy.html

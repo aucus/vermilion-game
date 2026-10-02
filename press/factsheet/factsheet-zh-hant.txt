@@ -7,7 +7,7 @@ VERMILION — 繁體中文
 上架地區: 韓國・日本・台灣・香港・澳門・新加坡・馬來西亞
 支援語言: 한국어 (Korean) · 日本語 (Japanese) · 繁體中文 (Traditional Chinese) · English
 上架日期: 2026-09-17
-開發: 個人開發
+開發: 兩人開發團隊（Travelic Games）
 App Store: https://apps.apple.com/app/id6795466218?pt=129231526&ct=web-zh&mt=8
 聯絡方式: https://aucus.github.io/vermilion-legal/
 Privacy: https://aucus.github.io/vermilion-legal/privacy-policy.html
